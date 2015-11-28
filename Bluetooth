@@ -1,0 +1,7 @@
+class BluetoothMouse
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Bluetooth technology is a step into the future of wireless technology");
+  }
+}
