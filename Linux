@@ -1,0 +1,13 @@
+class Apple extends Linux
+{
+  private int operations;
+  public Apple(int operations)
+  {
+    super(operations);
+    this.operations = operations;
+  }
+  public String toString()
+  {
+    return "FreeBSD";
+  }
+}
